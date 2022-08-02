@@ -1,0 +1,4 @@
+{
+    "editor.formatOnSave": true, // 저장 시 파일 포멧팅 자동 저장
+    "javascript.format.enable": false
+}
